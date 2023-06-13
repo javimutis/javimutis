@@ -1,12 +1,12 @@
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/D5616AQFVUGi1TDw9DA/profile-displaybackgroundimage-shrink_350_1400/0/1686270184915?e=1692230400&v=beta&t=pjjr1S7xa2sSH89CpqqWp4LtqvclchTfXpZ6fbQBsVM">
+</div>
+
 # Sobre mí
 
 ¡Hola! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 Soy Javiera, una estudiante de programación apasionada por la creación de aplicaciones móviles para Android. 
 Además de mi interés en la programación, también soy instructora de masaje tailandés y productora teatral. Me apasiona la sustentabilidad, el bienestar humano, los derechos de la comunidad LGBTIQ+, la ecología, los derechos animales y la política.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="360" height="202">
-</div>
 
 ## Habilidades y Conocimientos
 
