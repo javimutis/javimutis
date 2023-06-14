@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQFVUGi1TDw9DA/profile-displaybackgroundimage-shrink_350_1400/0/1686270184915?e=1692230400&v=beta&t=pjjr1S7xa2sSH89CpqqWp4LtqvclchTfXpZ6fbQBsVM">
+  <img src="https://media.licdn.com/dms/image/D5616AQERnvwOK3kLWQ/profile-displaybackgroundimage-shrink_350_1400/0/1686704205090?e=1692230400&v=beta&t=ARNaJuxgNh5KS048AdO_akwAtLUSHARy51XWuaIHUUE">
 </div>
 
 # Sobre mí
