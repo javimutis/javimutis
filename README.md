@@ -32,10 +32,11 @@ Espero trabajar en proyectos que tengan un impacto positivo en el mundo y puedan
 Si tienes alguna pregunta sobre mis proyectos o tienes interés en colaborar conmigo en un proyecto, no dudes en contactarme. Estoy siempre interesada en conectar con otros programadores y aprender más sobre la programación de aplicaciones móviles y así poder hacer una diferencia en el mundo!
 
 
+[![Website Badge](https://img.shields.io/badge/javimutisdev-003E54?style=flat-square&logo=Googlechrome&logoColor=white&labelColor=003E54&color=003E54)](https://javimutisdev.my.canva.site/)
+[![Linkedin Badge](https://img.shields.io/badge/-javieramutis-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javieramutis/)
+[![Email Badge](https://img.shields.io/badge/-javimutisdev%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:javimutisdev@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-javimutis-black?style=flat-square&logo=github&logoColor=white)](https://github.com/javimutis)
 
-[![Linkedin Badge](https://img.shields.io/badge/-javieramutis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javieramutis/)](https://www.linkedin.com/in/javieramutis/)
-[![Github Badge](https://img.shields.io/badge/-javimutis-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/javimutis)](https://github.com/javimutis)
-[![Email Badge](https://img.shields.io/badge/-javimutisdev%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:javimutisdev%40gmail.com)](mailto:javiera.mutis.frias@gmail.com)
 
 **¡Gracias por visitar mi perfil de GitHub!**
 
