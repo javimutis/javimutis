@@ -34,7 +34,7 @@ Si tienes alguna pregunta sobre mis proyectos o tienes interés en colaborar con
 
 [![Website Badge](https://img.shields.io/badge/javimutisdev-003E54?style=flat-square&logo=Googlechrome&logoColor=white&labelColor=003E54&color=003E54)](https://javimutisdev.my.canva.site/)
 [![Linkedin Badge](https://img.shields.io/badge/-javieramutis-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javieramutis/)
-[![Email Badge](https://img.shields.io/badge/-javimutisdev%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:javimutisdev@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-javimutisdev%40gmail.com-DF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:javimutisdev@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-javimutis-black?style=flat-square&logo=github&logoColor=white)](https://github.com/javimutis)
 
 
