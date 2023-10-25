@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQERnvwOK3kLWQ/profile-displaybackgroundimage-shrink_350_1400/0/1686704205090?e=1692230400&v=beta&t=ARNaJuxgNh5KS048AdO_akwAtLUSHARy51XWuaIHUUE">
+  <a href="https://www.linkedin.com/in/javieramutis/">
+    <img src="https://github.com/javimutis/javimutis/blob/816d0c714f934bdff2066d2d18af5a6f8afed999/banner.jpg?raw=true" alt="Banner a Linkedin">
+  </a>
 </div>
 
-# Sobre mí
+## Sobre mí
 
 ¡Hola! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-Soy Javiera, una estudiante de programación apasionada por la creación de aplicaciones móviles para Android. 
-Además de mi interés en la programación, también soy instructora de masaje tailandés y productora teatral. Me apasiona la sustentabilidad, el bienestar humano, los derechos de la comunidad LGBTIQ+, la ecología, los derechos animales y la política.
+Soy Javiera, una estudiante de programación apasionada por la creación de aplicaciones móviles para Android. Además de mi interés en la programación, también soy instructora de masaje tailandés y productora teatral. Me apasiona la sustentabilidad, el bienestar humano, los derechos de la comunidad LGBTIQ+, la ecología, los derechos animales y la política.
 
 ## Habilidades y Conocimientos
 
