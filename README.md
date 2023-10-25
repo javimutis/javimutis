@@ -33,10 +33,9 @@ Si tienes alguna pregunta sobre mis proyectos o tienes interés en colaborar con
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-javimutis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javimutis/)](https://www.linkedin.com/in/javimutis/)
-[![Instagram Badge](https://img.shields.io/badge/-javi.mutis-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/javi.mutis/)](https://www.instagram.com/javi.mutis/)
+[![Linkedin Badge](https://img.shields.io/badge/-javieramutis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javieramutis/)](https://www.linkedin.com/in/javieramutis/)
 [![Github Badge](https://img.shields.io/badge/-javimutis-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/javimutis)](https://github.com/javimutis)
-[![Email Badge](https://img.shields.io/badge/-javiera.mutis.frias%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:javiera.mutis.frias%40gmail.com)](mailto:javiera.mutis.frias@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-javimutisdev%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:javimutisdev%40gmail.com)](mailto:javiera.mutis.frias@gmail.com)
 
 **¡Gracias por visitar mi perfil de GitHub!**
 
