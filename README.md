@@ -7,7 +7,7 @@
 ## Sobre mí
 
 ¡Hola! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-Soy Javiera, una estudiante de programación apasionada por la creación de aplicaciones móviles para Android. Además de mi interés en la programación, también soy instructora de masaje tailandés y productora teatral. Me apasiona la sustentabilidad, el bienestar humano, los derechos de la comunidad LGBTIQ+, la ecología, los derechos animales y la política.
+Soy Javiera, programadora Android apasionada por la creación de aplicaciones móviles para Android. Me apasiona la sustentabilidad, el bienestar humano, los derechos de la comunidad LGBTIQ+, la ecología, los derechos animales, el teatro y la política.
 
 ## Habilidades y Conocimientos
 
