@@ -1,48 +1,100 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/javieramutis/">
-    <img src="https://github.com/javimutis/javimutis/blob/816d0c714f934bdff2066d2d18af5a6f8afed999/banner.jpg?raw=true" alt="Banner a Linkedin">
+    <img src="https://github.com/javimutis/javimutis/blob/816d0c714f934bdff2066d2d18af5a6f8afed999/banner.jpg?raw=true" alt="Javiera Mutis Banner">
   </a>
 </div>
 
-## Sobre mí
+# Hi, I’m Javiera 👋  
 
-¡Hola! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-Soy Javiera, programadora Android apasionada por la creación de aplicaciones móviles para Android. Me apasiona la sustentabilidad, el bienestar humano, los derechos de la comunidad LGBTIQ+, la ecología, los derechos animales, el teatro y la política.
+**Android Developer | UX Designer | Advocate for Human-Centered Tech**  
 
-## Habilidades y Conocimientos
+I’m a Chilean Android Developer and UX Designer passionate about building **scalable, user-centered apps with social impact**. My work combines **clean architecture, modern Android development practices, and thoughtful design** to deliver applications that are **functional, inclusive, and a delight to use.**
+
+---
+
+## 🚀 About Me  
+
+- **Android-first mindset** → I craft native apps in **Kotlin** following **Clean Architecture (MVVM)** with **StateFlow**, **Coroutines**, **Hilt DI**, and strong testing practices.  
+- **UX by design** → With a background in UX/UI, I ensure apps are **intuitive, accessible, and visually consistent**.  
+- **Socially driven** → I’m passionate about **sustainability, LGBTQ+ rights, human well-being, ecology, and inclusive technology**.  
+- **Always learning** → Currently sharpening **Jetpack Compose**, **Navigation Components**, and **advanced testing techniques**.  
+
+---
+
+## 🛠️ Tech Stack & Skills  
 
 <p align="left">
-  <a href="https://www.java.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="android" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visual-studio" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Java-F80000?style=flat&logo=oracle&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Hilt-4285F4?style=flat&logo=android&logoColor=white" alt="Hilt" />
+  <img src="https://img.shields.io/badge/Retrofit-009688?style=flat&logo=android&logoColor=white" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/Room-1976D2?style=flat&logo=android&logoColor=white" alt="Room" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/UX%2FUI-FD3A5C?style=flat&logo=figma&logoColor=white" alt="UX/UI" />
 </p>
-  
-## Mis proyectos
 
-En mi perfil de Github, puedes encontrar algunos de mis proyectos más recientes. Estos incluyen aplicaciones móviles para Android que he desarrollado como parte de mi proceso de aprendizaje. Todos los proyectos están disponibles públicamente y puedes clonarlos, explorarlos y contribuir a ellos si así lo deseas.
-  
-## Objetivos 
+- **Android:** MVVM, Clean Architecture, Jetpack Libraries, ExoPlayer, CameraX  
+- **Backend & APIs:** REST APIs, Retrofit2, Spring Boot (Java), Firebase Realtime Database  
+- **Testing:** Espresso, MockK, JUnit, GitHub Actions (CI/CD)  
+- **Design:** Figma, wireframing, user research, interaction prototyping  
+- **Databases:** Room, MySQL, Firestore  
+- **Collaboration:** Git, GitHub, Agile workflows  
 
-Espero trabajar en proyectos que tengan un impacto positivo en el mundo y puedan mejorar la vida de las personas. Estoy emocionada de colaborar con otros desarrolladores y contribuir a la comunidad de código abierto.
-  
-## Contacto
+---
 
-Si tienes alguna pregunta sobre mis proyectos o tienes interés en colaborar conmigo en un proyecto, no dudes en contactarme. Estoy siempre interesada en conectar con otros programadores y aprender más sobre la programación de aplicaciones móviles y así poder hacer una diferencia en el mundo!
+## 📱 Featured Projects  
 
+### [**QueerMap**](https://github.com/javimutis/QueerMap) – *A Safe-Space Locator for the LGBTQ+ Community*  
+- Android app with **Clean Architecture + MVVM** and **Firebase Authentication (Email/Google/Facebook)**  
+- Modular codebase, **unit and UI tests** with **95% coverage (JaCoCo)**  
+- Designed and developed **end-to-end UX and UI**, ensuring inclusive and accessible flows  
 
-[![Website Badge](https://img.shields.io/badge/javimutisdev-003E54?style=flat-square&logo=Googlechrome&logoColor=white&labelColor=003E54&color=003E54)](https://javimutisdev.my.canva.site/)
-[![Linkedin Badge](https://img.shields.io/badge/-javieramutis-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javieramutis/)
-[![Email Badge](https://img.shields.io/badge/-javimutisdev%40gmail.com-DF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:javimutisdev@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-javimutis-black?style=flat-square&logo=github&logoColor=white)](https://github.com/javimutis)
+---
 
+### [**Horoscope App**](https://github.com/javimutis/HoroscopeApp) – *Clean Architecture + Hilt Example*  
+- Interactive app with **daily horoscopes, lucky card roulette, and palmistry feature**  
+- Built using **StateFlow, Coroutines, Hilt DI**, and **layered architecture**  
+- Includes **UI testing with Espresso** and **Custom Test Runner** for dependency injection  
 
-**¡Gracias por visitar mi perfil de GitHub!**
+---
 
+### [**Developer Quotes App**](https://github.com/javimutis/DeveloperQuotes) – *MVVM + CI/CD Pipeline*  
+- Shows random programming quotes with **Room local persistence**  
+- **Unit-tested use cases**, automated **GitHub Actions pipeline** on every push  
+- Implements **Dagger Hilt DI** for scalable and testable code  
 
+---
 
+### [**Megamedia News App**](https://github.com/javimutis/MegamediaNews) – *API + ExoPlayer Integration*  
+- Kotlin Android app connected to a **Spring Boot (Java) API + MySQL backend**  
+- Fetches real news and **plays videos in-app using ExoPlayer**  
+- Demonstrates **Retrofit API calls**, **Postman testing**, and **graceful error handling**  
 
+---
 
+### [**TVtestQR**](https://github.com/javimutis/TVtestQR) – *Android TV Login via QR Code (Prototype)*  
+- Built with **Leanback UI**, **ZXing for QR generation**, and **secure refresh logic**  
+- Prototype for **TV streaming authentication flows**  
 
- 
+---
+
+## 🎯 Career Goals  
+
+I’m looking for opportunities to **grow as an Android Developer while contributing to products that have real impact** — apps that make life better, smarter, and more inclusive. I thrive in **collaborative teams**, love **clean code and scalable design**, and enjoy learning from senior developers while bringing my own UX perspective to the table.  
+
+---
+
+## 📬 Contact  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-003E54?style=flat&logo=Google-chrome&logoColor=white)](https://javimutisdev.my.canva.site/)  
+[![LinkedIn](https://img.shields.io/badge/-Javiera%20Mutis-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javieramutis/)  
+[![Email](https://img.shields.io/badge/-javimutisdev%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:javimutisdev@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-javimutis-black?style=flat&logo=github&logoColor=white)](https://github.com/javimutis)  
+
+---
+
+> **Thanks for visiting my GitHub!**  
+> I’m excited to keep building, learning, and creating apps that matter. 🚀
