@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# Hi, I’m Javiera   
+# Hi, I’m Javiera 👋     
 
 **Android Developer | UX Designer | Advocate for Human-Centered Tech**  
 
