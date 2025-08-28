@@ -1,8 +1,7 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/javieramutis/">
-    <img src="https://github.com/javimutis/javimutis/blob/816d0c714f934bdff2066d2d18af5a6f8afed999/banner.jpg?raw=true" alt="Javiera Mutis Banner">
-  </a>
-</div>
+<p align="center">
+  <img src="https://github.com/javimutis/javimutis/blob/master/banner-AD-UX-IN.jpg?raw=true" alt="Banner" width="100%">
+</p>
+
 
 # Hi, I’m Javiera 👋     
 
